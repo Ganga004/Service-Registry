@@ -1,7 +1,5 @@
 # Service-Registry
 
-This is a service registry. 
+This is service registry where Users, Department & API Gateway services are registered
 
-To check this, User and Developer repositories to be imported.
 
-Please check User and Developer in my GitHub page.
